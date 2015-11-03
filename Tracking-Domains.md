@@ -1,5 +1,5 @@
 ## Initial
-
+`
 a-0001.a-msedge.net
 a-0002.a-msedge.net
 a-0003.a-msedge.net
@@ -92,10 +92,10 @@ www.msftncsi.com
 ssw.live.com
 reports.wes.df.telemetry.microsoft.com
 services.wes.df.telemetry.microsoft.com
-
+`
 
 ## Extra
-
+`
 fe2.update.microsoft.com.akadns.net
 s0.2mdn.net
 statsfe2.update.microsoft.com.akadns.net
@@ -111,3 +111,4 @@ pricelist.skype.com
 apps.skype.com
 m.hotmail.com
 s.gateway.messenger.live.com
+`
