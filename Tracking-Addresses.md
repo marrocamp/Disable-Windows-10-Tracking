@@ -1,3 +1,5 @@
+Tracking Addresses disbaled/blocked by this app:
+
 ## Initial
 
 	a-0001.a-msedge.net
